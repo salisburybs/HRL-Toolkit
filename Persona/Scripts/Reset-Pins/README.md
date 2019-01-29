@@ -1,3 +1,7 @@
+# Persona Pin Reset Utility
+
+This script will change and update all expired pin only credential credentialsets for the Persona wireless locksets.
+
 ## Usage
 
 This must be run under a user account that has permission to select, update, execute on the Persona database instance
