@@ -1,4 +1,4 @@
-##Usage##
+## Usage
 
 This must be run under a user account that has permission to select, update, execute on the Persona database instance
 
